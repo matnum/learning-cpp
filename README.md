@@ -1,2 +1,1 @@
-# learning-cpp
-# Repository about learning C++
+Repository about learning C++
