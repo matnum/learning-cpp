@@ -1,4 +1,4 @@
 # Repository about learning C++
-# Tutorial from:
+# Tutorials from:
 # https://www.learncpp.com/
 # https://www.udemy.com/beginning-c-plus-plus-programming/
